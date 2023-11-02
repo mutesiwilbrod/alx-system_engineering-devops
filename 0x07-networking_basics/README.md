@@ -1,0 +1,1 @@
+OSI (Open Systems Interconnection) is an abstract model that describes layered communication and computer network design. The model segregates the different parts of what makes communication possible.
